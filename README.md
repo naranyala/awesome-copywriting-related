@@ -318,6 +318,7 @@ Study one voice per niche. Hand-copy their work by hand (yes, by hand).
 | [Claude](https://claude.ai/) | Most natural long-form, 200k context, audience reasoning | Free / $20/mo. Favorite of many freelance copywriters. |
 | [Jasper](https://www.jasper.ai/) | Teams, brand voice, campaign assets, Surfer integration | From ~$39-49/mo. SOC2, governance. |
 | [Copy.ai](https://www.copy.ai/) | GTM workflows, short-form, cold email, ad variations | Free / from $29/mo. Workflow builder. |
+| [ReCopyFast](https://www.recopyfa.st/) | Editing client website copy in place | From $9/mo. Add one script tag; click text, edit in place, and use AI rewrite suggestions. |
 | [Writesonic](https://writesonic.com/) | SEO long-form + AI search visibility tracking | From ~$49/mo. |
 | [Anyword](https://anyword.com/) | Performance prediction score (claims 82% vs 52% GPT) for ads/landing/email | From ~$39/mo. Real edge for paid media. |
 | [Rytr](https://rytr.me/) | Budget short-form, 40+ templates, 30+ tones | Free / $7.50/mo unlimited-ish. |
